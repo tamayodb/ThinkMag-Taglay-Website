@@ -1,6 +1,6 @@
 # ThinkMag
 
-[![ThinkMag Logo](https://thinkmag.vercel.app/assets/logo-zMoFDgUT.png/150x50?text=ThinkMag)](https://thinkmag.vercel.app/)
+[![ThinkMag Live Website](https://thinkmag.vercel.app/assets/logo-zMoFDgUT.png)](https://thinkmag.vercel.app/)
 
 This project is developed in partial fulfillment of the requirements for the **Bachelor of Science in Computer Science** at **National University-Manila**.
 ...
